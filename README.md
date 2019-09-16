@@ -1,4 +1,6 @@
-# node-issues debugging
+# Debugging - exec command output.
+
+`module path: const exec = require('child_process').exec;`
 
 ```
 main file: index.js
