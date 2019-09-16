@@ -3,7 +3,7 @@ console.log('i am from the top line -- just for debugging -- need to be ignore i
 function sum(x, y) {
 	return x + y;
 }
-
+console.clear()
 console.log(sum(20, 30));
 
 //as final output it should print 50
